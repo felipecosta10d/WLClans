@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WLClans:jar">
+    <output-path>$PROJECT_DIR$/../../Server/plugins</output-path>
+    <root id="archive" name="WLClans.jar">
+      <element id="module-output" name="WLClans" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/eokasta/CommandLib/3.1/CommandLib-3.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
